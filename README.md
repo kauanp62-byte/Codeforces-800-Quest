@@ -1,5 +1,5 @@
 - Problems are organized by their contest ID and problem code for easy reference.
-- Each file is named using the standard format: `[ProblemID] - [ProblemName].cpp`
+- Each file is named using the standard format: `[ProblemID] - [ProblemName].py`
 
 ## 💡 Topics Covered
 Solutions in this repository often involve:
@@ -14,8 +14,8 @@ Solutions in this repository often involve:
 2. **For Me:** To track progress and revisit solutions for revision.
 
 ## 🔗 Links
-- [My Codeforces Profile](https://codeforces.com/profile/YourProfileName)
-- [Codeforces Problemset](https://codeforces.com/problemset)
+- [My Codeforces Profile](https://codeforces.com/profile/oliveira_kauan)
+- [Codeforces Problemset](https://codeforces.com/problemset?order=BY_RATING_ASC)
 
 ---
 *“The journey of a thousand miles begins with a single step.” – Lao Tzu*
