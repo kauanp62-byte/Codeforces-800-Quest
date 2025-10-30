@@ -1,4 +1,4 @@
-- Problems are organized by their contest ID and problem code for easy reference.
+- Problems are organized by their contest ID and problem code for easy reference. At first I was solving with Python but nowadays I practice with C++.
 - Each file is named using the standard format: `[ProblemID] - [ProblemName].py` or `[ProblemID] - [ProblemName].cpp`
 
 ## 💡 Topics Covered
