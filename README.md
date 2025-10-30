@@ -1,5 +1,5 @@
 - Problems are organized by their contest ID and problem code for easy reference.
-- Each file is named using the standard format: `[ProblemID] - [ProblemName].py`
+- Each file is named using the standard format: `[ProblemID] - [ProblemName].py` or `[ProblemID] - [ProblemName].cpp`
 
 ## 💡 Topics Covered
 Solutions in this repository often involve:
